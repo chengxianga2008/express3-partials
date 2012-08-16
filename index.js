@@ -175,7 +175,7 @@ function lookup(root, view, ext){
   view = resolve(root,'_'+name+ext)
   if( exists(view) ) return view;
   
-  //Try path ./views/partials/ ex: ./views/<name>.jade
+  //Try path ./views/partials/ ex: ./views/partials/<name>.jade
   view = resolve(root,'partials',name+ext)
   if( exists(view) ) return view;
 

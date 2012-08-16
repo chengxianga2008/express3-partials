@@ -2,7 +2,7 @@
   "author": "Jack Carrick Xiang Cheng <chengxianga2008@yahoo.com> (inovlab.com)",
   "name": "express3-partials",
   "description": "Express 3.x Layout & Partial support with enhanced feature",
-  "version": "0.2.3",
+  "version": "0.2.4",
   "repository": {
     "type": "git",
     "url": "git://github.com/chengxianga2008/express3-partials.git"
